@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="assets/img/logo-large.png" style="height: 256px;">
+  <img src="github-header.png" style="height: 256px;">
 </p>
 
 <!-- MAIN INFORMATION -->
